@@ -6,4 +6,4 @@ Creators:
 # Object-tracking
 CSE-473/573 Object Tracking Pipeline using OpenCV and TensorFlow
 
-Report of this project is available here : https://github.com/Manvijay/Object-Tracker/edit/master/report.pdf
+Report of this project is available here : https://github.com/Manvijay/Object-Tracker/edit/master/Report.pdf
